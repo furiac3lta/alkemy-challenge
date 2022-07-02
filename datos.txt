@@ -1,0 +1,37 @@
+{
+    "imagen" : "imagen de blanca nieves",
+    "nombre" : "Blancanieves",
+    "edad" : "43",
+    "peso" : "79",
+    "historia" : "es la historia de una flaca que come una manzana",
+    "peliculas":[
+        {
+            "id_pelicula": 1
+        },
+       
+    ]
+      
+}
+
+{
+    "imagen" : "imagen de pelicula",
+    "fechaDeCreacion" : "1965-01-01",
+    "titulo" : "Blanca nieves la pelicula",
+    "calificacion" : "5",
+    
+    "personajes":[
+        {
+            "id_personaje": 1
+        },
+        {
+            "id_personaje": 2
+        }
+    ]
+}
+
+
+{
+    "nombre" : "infantil",
+    "imagen" : "imagen de pelicula"
+    
+}
